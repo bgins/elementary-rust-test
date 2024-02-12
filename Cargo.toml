@@ -1,0 +1,8 @@
+[package]
+name = "elementary-rust-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+deno_core = "0.261.0"
+tokio = "1.36.0"
